@@ -1,4 +1,4 @@
-### Hi there, I'm narcis 👋
+### Hi there, I'm Narcis Lazar 👋
 
 Here are some ideas to get you started:
 

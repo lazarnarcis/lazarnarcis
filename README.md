@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://linkedin.com/in/narcislazar" target="_blank">linkedin</a>, <a href="https://lazarnarcis.github.io" target="_blank">portfolio</a>, <a href="https://instagram.com/lnarcis310" target="_blank">instagram</a> or <a href="https://web.facebook.com/narcis2003/" target="_blank">facebook</a>.
 
 Here you can see the projects I have worked on so far: https://freelancing-projects-narcis.herokuapp.com/
+
+My favorite project is: https://live-chat-narcis.herokuapp.com/

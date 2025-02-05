@@ -8,13 +8,13 @@
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 My Skills
 **Frontend Development:**
-HTML5 & CSS3, JavaScript (ES6+), React JS, Pug, SASS, Bootstrap & Tailwind CSS, jQuery
+- HTML5 & CSS3, JavaScript (ES6+), React JS, Pug, SASS, Bootstrap & Tailwind CSS, jQuery
 **Backend Development:**
-PHP, Node.js, Express.js, TypeScript, SQL 
+- PHP, Node.js, Express.js, TypeScript, SQL 
 **DevOps:** 
-Git & GitLab, Linux, Shell Scripting, Apache, Let's Encrypt, OVH
+- Git & GitLab, Linux, Shell Scripting, Apache, Let's Encrypt, OVH
 
 ---
 

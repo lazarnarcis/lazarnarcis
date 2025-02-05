@@ -26,9 +26,9 @@
 ## 📫 Connect with Me  
 📌 **[LinkedIn](https://linkedin.com/in/narcislazar)** – Let's connect!  
 🌐 **[Portfolio](https://dev-hub.ro/)** – My work, projects, and case studies  
-📸 **[Instagram](https://instagram.com/lnarcis310)** – A glimpse of my dev journey  
+📸 **[Instagram](https://instagram.com/lnarcis310)** 
 🎮 **[Discord](https://discord.gg/8RV9dsDuRX)** – Join my dev community  
-📺 **[YouTube](https://www.youtube.com/channel/UCLFSj5BJ5Y5i9moZOTsGE4Q)** – Tutorials & insights  
+📺 **[YouTube](https://www.youtube.com/channel/UCLFSj5BJ5Y5i9moZOTsGE4Q)** 
 📘 **[Facebook](https://web.facebook.com/lnarcis310/)** – Updates & engagement  
 
 ---

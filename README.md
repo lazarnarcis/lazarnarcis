@@ -1,6 +1,6 @@
 # Hi there, I'm Narcis Lazar 👋
 
-🚀 **Full Stack Web Developer | Building high-performance websites & web applications since 2017**  
+🚀 **Full Stack Web Developer**  
 
 🌱 Experienced full stack web developer Narcis Lazar, crafting high-performance websites and innovative web applications since 2017. Specializing in front-end and back-end development, I deliver tailored, professional solutions for businesses looking to thrive online. Get in touch for cutting-edge web development services.
 
@@ -33,4 +33,4 @@
 
 ---
 
-💡 *Let's build something great together!* 🚀  
+💡 *Contact me to create your own website from scratch and you won't regret it!!* 🚀  
